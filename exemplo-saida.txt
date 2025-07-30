@@ -1,0 +1,6 @@
+IP,Status,Porta,Protocolo,Serviço
+192.168.15.1,up,21,tcp,ftp
+192.168.15.1,up,22,tcp,ssh
+192.168.15.1,up,23,tcp,telnet
+192.168.15.1,up,80,tcp,http
+192.168.15.1,up,443,tcp,https
