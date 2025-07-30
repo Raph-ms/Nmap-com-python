@@ -21,7 +21,7 @@ Este é um simples **scanner de rede** desenvolvido em Python utilizando a bibli
 
 # Como usar?
  Em sua cli copie e cole este comando
- python scanner.py # ip desejado #
+ python scanner.py 192.168.0.0
 
 # Saída
 Após a execução, será gerado um arquivo chamado relatorio.csv no diretório atual, contendo as seguintes colunas:
