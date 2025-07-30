@@ -20,7 +20,7 @@ Este é um simples **scanner de rede** desenvolvido em Python utilizando a bibli
   - `python-nmap`
 
 # Como usar?
- Em sua cli copie e cole este comando
+ Em sua CLI copie e cole este comando:
  python scanner.py 192.168.0.0
 
 # Saída
